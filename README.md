@@ -1,6 +1,6 @@
 # Skedulo Tech Test
 
-I believe that I completed the task to the specification here. Hope you like it!
+Developed a live search using React+Typescript whilst using pretty popular CSS frameworks for a nice look.
 
 ## Running Demo
 Run: ```yarn start```
